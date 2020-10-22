@@ -97,7 +97,7 @@ address = {street = "Rännvägen 6B", city = "Göteborg", region = "", postcode 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "57.687572", longitude = "11.978780"},
+coordinates = {latitude = "57.687572", longitude = "11.978780"}
 
 # Directions for visitors to locate you.
 directions = "Enter EDIT Building and take the stairs to 3109A on Floor 3"
