@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yuan Liao
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Data Science and Mobility
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Chalmers University of Technology
+  url: "https://www.chalmers.se/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include data science, mobility and transportation, and GIS.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Science
+- Mobility and Transportation
+- Geographical Information Systems
 
 education:
   courses:
@@ -40,16 +40,28 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:yuan.liao@chalmers.se'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.se/citations?user=neS11D4AAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: http://orcid.org/0000-0002-6982-1654
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Yuan_Liao8
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/3313762/yuan-liao/
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yliaothu/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/TheYuanLiao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/TheYuanLiao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,7 +72,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,6 +81,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm a PhD candidate at the Department of Space, Earth and Environment, Chalmers University of Technology, Sweden (2017-). I work at the intersection of data science and mobility, applied to intelligent transportation and sustainable cities. My research focuses on the understanding of human mobility patterns using big and continuous data from newly emerged sources, such as Twitter, mobile phones, and other online platforms. My active research interests include data science, intelligent mobility & transportation, and spatial & behavioural sciences.
+In my master thesis at [Tsinghua University](https://www.tsinghua.edu.cn/en/), China (2013-2016), I studied driver distractions during driving, combining gaze data and behavioural data; the impacts on driving safety and how to detect them in practice.
+I'm an active learner of data techniques especially data visualisation and spatial analysis.
