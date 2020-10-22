@@ -82,5 +82,7 @@ user_groups:
 ---
 
 I'm a PhD candidate at the Department of Space, Earth and Environment, Chalmers University of Technology, Sweden (2017-). I work at the intersection of data science and mobility, applied to intelligent transportation and sustainable cities. My research focuses on the understanding of human mobility patterns using big and continuous data from newly emerged sources, such as Twitter, mobile phones, and other online platforms. My active research interests include data science, intelligent mobility & transportation, and spatial & behavioural sciences.
+
 In my master thesis at [Tsinghua University](https://www.tsinghua.edu.cn/en/), China (2013-2016), I studied driver distractions during driving, combining gaze data and behavioural data; the impacts on driving safety and how to detect them in practice.
+
 I'm an active learner of data techniques especially data visualisation and spatial analysis.
