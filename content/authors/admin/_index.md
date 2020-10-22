@@ -23,15 +23,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Data Science and Mobility
+    institution: Chalmers University of Technology
+    year: 2022
+  - course: MEng in Automotive Engineering
+    institution: Tsinghua University
+    year: 2016
+  - course: BSc in Automotive Engineering
+    institution: Tsinghua University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,9 +44,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.se/citations?user=neS11D4AAAAJ&hl=en
-- icon: orcid
-  icon_pack: ai
-  link: http://orcid.org/0000-0002-6982-1654
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Yuan_Liao8
@@ -83,6 +80,6 @@ user_groups:
 
 I'm a PhD candidate at the Department of Space, Earth and Environment, Chalmers University of Technology, Sweden (2017-). I work at the intersection of data science and mobility, applied to intelligent transportation and sustainable cities. My research focuses on the understanding of human mobility patterns using big and continuous data from newly emerged sources, such as Twitter, mobile phones, and other online platforms. My active research interests include data science, intelligent mobility & transportation, and spatial & behavioural sciences.
 
-In my master thesis at [Tsinghua University](https://www.tsinghua.edu.cn/en/), China (2013-2016), I studied driver distractions during driving, combining gaze data and behavioural data; the impacts on driving safety and how to detect them in practice.
+In my master thesis at [Tsinghua University](https://www.tsinghua.edu.cn/en/), China (2013-2016), I studied driver distractions during driving on driving safety and how to detect them in practice by combining gaze data and behavioural data.
 
 I'm an active learner of data techniques especially data visualisation and spatial analysis.
