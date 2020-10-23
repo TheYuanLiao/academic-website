@@ -1,9 +1,9 @@
 ---
 title: "User experience of driver-vehicle interaction systems"
 
-summary: "Explore the human-factor issues of designing advanced driver assistance systems: enhancing intelligence, comfort, and safety."
+summary: "Explore the human-factor issues of designing advanced driver assistance systems (ADASs) to enhance driving safety, comfort, and intelligence."
 
-tags: ["vehicular human factors", "interaction design", "driver behaviours", "data fusion", "advanced driver assistance systems"]
+tags: ["vehicular human factors", "interaction design", "driver behaviours", "data fusion", "ADASs"]
 date: "2016-05-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
