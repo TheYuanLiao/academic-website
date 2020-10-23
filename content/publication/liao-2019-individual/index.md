@@ -27,7 +27,7 @@ abstract: "This paper examines the population heterogeneity of travel behaviours
 summary: The heterogeneity of behavioural groups and their spatial mobility including travel and day-to-day displacement using Twitter user timelines.
 
 tags: ["geotagged activity patterns", "individual mobility", "data mining", "hierarchical clustering"]
-featured: false
+featured: true
 
 links:
 - name: Link
