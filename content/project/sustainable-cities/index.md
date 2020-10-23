@@ -7,13 +7,13 @@ tags: ["sustainability", "social media data", "traffic congestion data", "big da
 date: "2017-09-06T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://research.chalmers.se/en/project/7500
+external_link: ""
 
 image:
   caption: Photo by NASA on Unsplash
   focal_point: Smart
 ---
-This proposal is organized around two big ideas:
+This [proposal](https://research.chalmers.se/en/project/7500) is organized around two big ideas:
 
 1) explore the potential expressive analysis of the continuous and large amounts of information sensed in urban environments can boost the understanding of human mobility patterns in urban cities;
 
