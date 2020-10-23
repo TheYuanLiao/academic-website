@@ -1,5 +1,5 @@
 ---
-title: Sustainable cities: the use of large amounts of data to understand and handle movement patterns and congestion
+title: "Sustainable cities: the use of large amounts of data to understand and handle movement patterns and congestion"
 summary: "This proposal is organized around two big ideas: 1) explore the potential expressive analysis of the continuous and large amounts of information sensed in urban environments can boost the understanding of human mobility patterns in urban cities;
 
 2) enhance access data and knowledge to citizens, stakeholders and researchers to improve their ability to utilize live information that will help achieve social, economic and environmental sustainability in cities.
