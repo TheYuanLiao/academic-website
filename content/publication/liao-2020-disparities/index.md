@@ -47,7 +47,7 @@ url_project: ''
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: Yuan Liao'
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Associated Projects (optional).
@@ -56,7 +56,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- sustainable-cities
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
