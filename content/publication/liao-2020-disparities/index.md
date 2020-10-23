@@ -29,7 +29,7 @@ abstract: "Cities worldwide are pursuing policies to reduce car use and prioriti
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- ["travel time", "car", "public transit", "open data", "GTFS", "social media data"]
+- "travel time" "car" "public transit" "open data" "GTFS" "social media data"
 featured: true
 
 links:
