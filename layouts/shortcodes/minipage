@@ -1,0 +1,5 @@
+
+<div class="embed url">
+<iframe class="minipage" type="text/html" width="100%" src="{{ index .Params 0 }}" frameborder="0">
+</iframe>
+</div>
