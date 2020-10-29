@@ -1,13 +1,17 @@
 ---
 title: "Interactive explorer of origin-destination matrices: a Shiny app and how-to"
 date: 2020-10-28
-author: admin
+summary: "How to make a Shiny app that explores OD matrices by mode and time."
+
+tags: ["R", "transport", "mode", "origin-destination matrix", "Shiny"]
+
 image:
-  placement: 3
-  caption: 'Image credit: [**Alina Grubnyak**](https://unsplash.com/photos/ZiQkhI7417A)'
+  caption: Photo by Alina Grubnyak on Unsplash
+  focal_point: Smart
 ---
 
 **Interactive ODM explorer** [^1]
+
 Below is a Shiny app which you can interactively explore origin-destination (OD) matrices based on the [travel survey](https://doi.org/10.17026/dans-xxt-9d28) of the Netherlands (2017). It is featured with
 - OD matrices broken down by mode (Non-bike, bike, and e-bike) and time (0 - 23)
 - Interactive visualization of the networks
@@ -17,11 +21,7 @@ Below is a Shiny app which you can interactively explore origin-destination (OD)
 
 
 ## Data preparation
-With travel surveys, the first thing to do is to convert travel survey trip records into origin-destination pairs with a zoning system.
-
-{{< minipage "zones.html" >}}
-
-A typical OD flow dataset looks like the below.
+With travel surveys, the first thing to do is to convert travel survey trip records into origin-destination pairs with a zoning system. A typical OD flow dataset looks like the below.
 
 
 | Origin zone  | Destination zone | Trip number |
