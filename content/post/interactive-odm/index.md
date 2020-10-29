@@ -19,17 +19,18 @@ Below is a Shiny app which you can interactively explore origin-destination (OD)
 ## Data preparation
 With travel surveys, the first thing to do is to convert travel survey trip records into origin-destination pairs with a zoning system.
 
-{{< chart data="zones" >}}
+{{< minipage "zones.html" >}}
 
 A typical OD flow dataset looks like the below.
-```markdown
+
+
 | Origin zone  | Destination zone | Trip number |
 | ------------- | ------------- | ------------- |
 | 100  | 100  | 45  |
 | 101  | 100  | 78  |
 | 100  | 101  | 22  |
 | 101  | 114  | 1  |
-```
+
 
 And to make the zone id just like the zoning system, there is a great tutorial on how to generate OD polylines with the origin and destination of each connection consistent with their polygons' centroid.
 
@@ -39,4 +40,4 @@ And to make the zone id just like the zoning system, there is a great tutorial o
 
 
 
-[^1]: "I've been taking [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) on Coursera. This post is based on the final project of Course 9/10 [Developing Data Products](https://www.coursera.org/learn/data-products)."
+[^1]: I've been taking [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) on Coursera. This post is based on the final project of Course 9/10 [Developing Data Products](https://www.coursera.org/learn/data-products).
