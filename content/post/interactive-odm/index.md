@@ -11,13 +11,14 @@ image:
 Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
 
 **Interactive ODM explorer**
-
+{{< myshortcode >}}
 <html>
 <head><title>Interactive ODM explorer</title></head>
 <body>
 <iframe id="InteractiveODM" src="https://yuanliao.shinyapps.io/InteractiveODM/" style="border: none; width: 100%; height: 850px" frameborder="0"></iframe>
 </body>
 </html>
+{{< /myshortcode >}}
 
 On this page, you'll find some examples of the types of technical content that can be rendered with Academic.
 
