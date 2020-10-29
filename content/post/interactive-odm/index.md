@@ -11,11 +11,12 @@ image:
 Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
 
 **Interactive ODM explorer**
+<iframe id="InteractiveODM"
+    title="Interactive ODM explorer"
+    width="400"
+    src="https://yuanliao.shinyapps.io/InteractiveODM/">
+</iframe>
 
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://yuanliao.shinyapps.io/InteractiveODM/" style="position: absolute; top: 0; left: 0; width: 100%; border:0;" ></iframe>
-</div>
 
 On this page, you'll find some examples of the types of technical content that can be rendered with Academic.
 
