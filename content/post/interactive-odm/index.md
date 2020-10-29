@@ -1,7 +1,7 @@
 ---
 title: "Interactive explorer of origin-destination matrices: a Shiny app and how-to"
 date: 2020-10-28
-summary: "How to make a Shiny app that explores OD matrices by mode and time."
+summary: "How to make a Shiny app that explores OD matrices by mode and time (data from The Netherlands)."
 
 tags: ["R", "transport", "mode", "origin-destination matrix", "Shiny"]
 
@@ -34,7 +34,7 @@ With travel surveys, the first thing to do is to convert travel survey trip reco
 | 101  | 114  | 1  |
 
 
-After making the zone id just like the zoning system, there is a great tutorial on how to generate OD polylines with the origin and destination of each connection consistent with their polygons' centroid.
+After making the zone id just like the zoning system, there is a great tutorial on how to generate OD Polylines with the origin and destination of each connection consistent with their polygons' centroid.
 
 > [Origin-destination data with stplanr](https://cran.r-project.org/web/packages/stplanr/vignettes/stplanr-od.html)
 
@@ -103,7 +103,7 @@ df <- df %>% filter(ozone %in% zones$zone, dzone %in% zones$zone)
 ```
 
 #### 2 Prepare data based input in ui.R
-Taking all the input, `mode`, `time`, and `hour`, the below chunk subsets the data and create Polylines using the R package [`stplanr`](https://docs.ropensci.org/stplanr/).
+Taking all the input, `mode`, `time`, and `hour`, the below chunk subsets the data and creates Polylines using the R package [`stplanr`](https://docs.ropensci.org/stplanr/).
 
 ```r
 odm <- reactive({
@@ -124,6 +124,11 @@ odm <- reactive({
     return(lines)
 })
 ```
+
+{{% callout note %}}
+`odm` is a function to be called later.
+{{% /callout %}}
+
 #### 3 Prepare data based input in ui.R
 Finally, we are ready to plot the OD network using R package [`tmap`](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html).
 
