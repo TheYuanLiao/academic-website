@@ -12,7 +12,7 @@ Academic is designed to give technical content creators a seamless experience. Y
 
 **Interactive ODM explorer**
 
-{{< minipage https://yuanliao.shinyapps.io/InteractiveODM/ >}}
+{{< minipage "https://yuanliao.shinyapps.io/InteractiveODM/" >}}
 
 On this page, you'll find some examples of the types of technical content that can be rendered with Academic.
 
