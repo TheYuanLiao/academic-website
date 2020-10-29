@@ -1,5 +1,5 @@
 ---
-title: Interactive visualization of origin-destination matrices: a Shiny app and how to
+title: "Interactive visualization of origin-destination matrices: a Shiny app and how-to"
 date: 2020-10-28
 math: true
 diagram: true
@@ -12,7 +12,7 @@ Academic is designed to give technical content creators a seamless experience. Y
 
 **Interactive ODM explorer**
 
-
+{{< minipage https://yuanliao.shinyapps.io/InteractiveODM/ >}}
 
 On this page, you'll find some examples of the types of technical content that can be rendered with Academic.
 
