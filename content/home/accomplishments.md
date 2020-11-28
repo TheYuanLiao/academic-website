@@ -57,4 +57,14 @@ date_format = "Jan 2006"
   date_start = "2020-07-07"
   date_end = ""
   description = ""
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Modern Big Data Analysis with SQL"
+  url = "https://www.coursera.org/specializations/jhu-data-science"
+  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/M4H4UWYHEC2U"
+  date_start = "2020-11-15"
+  date_end = ""
+  description = ""
 +++
