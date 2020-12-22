@@ -114,3 +114,59 @@ The words in a sentence have varying weights: stress, topic, and middle part in 
   - Short and clear topic
   - The main verb follows the topic immediately
   - The key message comes at the stress
+
+### 3.3 Flow
+This is the crucial aspect contributing to a page turner. For the first time, I learned the difference between a list of sentences and a story. The difference is shown in the below figure adapted from Figure 13.2 of the book.
+
+{{< figure src="flow.png" title="List vs. Story." >}}
+
+If done quickly, the first draft is usually full of scattered ideas and the thinking does not necessarily become a coherent story. When rewriting, one should turn lists of sentences into stories by putting the topic and the stress in the right place. Below are from Examples 13.1 and 13.2 of the book.
+
+> List. Molecules are comprised of covalently bonded atoms. Molecules' reactions are controlled by the strength of the bonds. Molecules, however, sometimes react slower than bond strength would predict.
+
+> Story. Molecules are comprised of covalently bonded atoms. Bond strength controls a molecule's reactions. Sometimes however, those reactions are slower than bond strength would predict.
+
+### 3.4 Energizing writing
+
+- Active vs. passive voice. This controls whose story this is about. Passive voice sometimes is better when one needs to hide the actor and highlight the message.
+- Fuzzy verbs. occur, facilitate, conduct, implement, affect, perform. Strong action verbs include modify, increase, react, accelerate, accomplish, decrease, inhibit, migrate, create, invade, disrupt.
+- Nominalizations - the conversion of a word or phrase into a noun. This is the hardest part to avoid/revise. "Failure of ... is observed" vs. "XX fail to ..."
+
+### 3.5 Words
+
+- Jargon. A term that refers to a schema the reader does not hold and for which there is an adequate plain language equivalent.
+- Technical terms. A term that refers to a schema the reader does hold and for which either there is no plain language equivalent or where using it would be confusing.
+    - Beginning of the sentence. Every reader knows and understands the term.
+    - End of the sentence. Define a new term for the reader.
+    - Middle of the sentence. Most readers know the term while it is not critical to the story.
+- Avoid being unnecessarily technical where there is plain language equivalent.
+- Emotional weight.
+
+    > Despite the benefits of short, light words, academics routinely fall into the centuries-old trap of choosing long, heavy Latin words. Many of us are still showing off instead of communicating.
+
+    Consume vs Eat, Permit vs. Let, Initiate vs. Start, Utilize vs. Use, Attempt vs. Try...
+
+- Prepositional phrases vs. compound nouns. "rate of reaction vs. reaction rate".
+
+## 4 Real editing
+
+### 4.1 Condensing
+
+Strategies for condensing. 1) Redundancies, 2) Obvious, 3) Modifiers: adjectives and adverbs, 4) Metadiscourse, and 5) Verbosity.
+
+- Metadiscourse. "We found that ...", "We argue that ...", "These results may indicate ...".
+
+I used metadiscourse a lot because of lacking the sense to take care of the flow; I was driven by the data and doing data dump instead of synthesize the results into a story. These metadiscourses disrupt the flow easily and should be consciously avoided.
+
+- Putting it all together. 1) Structure, 2) Clarity, 3) Flow, and 4) Language.
+
+### 4.2 Dealing with limitations
+
+- Introduction. Promise the story you will deliver.
+- Materials and methods. Acknowledge it sooner than later especially the method is not standard.
+- Discussion. Use "but, yes" to remind of the limitations but don't dwell on them.
+- Within the conclusions. Never end with the specific limitations but open up the future research with concrete questions.
+
+The above notes omit the last three chapters, "Writing global science", "Writing for the public", and "Resolution", and the appendices of writing resources.
+
+After reading this book, I started writing a new paper. The related work part took me two weeks to finish. I write in a completely different way with all the knowledge learned from this book. I became more cautious and therefore, painfully slower in writing down anything. But I guess it is a process, trust it and you will become a better writer. Have fun writing science!
