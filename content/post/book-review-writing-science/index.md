@@ -1,5 +1,5 @@
 ---
-title: "The review and excerpts of the book Writing Science"
+title: "Review and excerpts of the book Writing Science"
 date: 2020-12-22
 summary: "The review and excerpts of a recently read book, Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded"
 
