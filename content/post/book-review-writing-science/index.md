@@ -73,10 +73,10 @@ End proposals by reiterating problem, challenge, research, and how it will solve
 A story arc consists of opening, development, and resolution, while each of sentences, paragraphs, or sections is a story arc. A paper itself is a set of nested arcs. At the top level, ask the below questions to check how well different components are organised.
 
 > 1 Does each unit make a single, clear point?
-2 When several paragraphs together form a section, are the linkages among them clear?
-3 Has every extraneous thought that breaks the serial arc structure been removed?
-4 When you introduce a topic, do you resolve that discussion before introducing a new topic?
-5 Is every major unit of the work defined by either a subhead or clear opening text?
+> 2 When several paragraphs together form a section, are the linkages among them clear?
+> 3 Has every extraneous thought that breaks the serial arc structure been removed?
+> 4 When you introduce a topic, do you resolve that discussion before introducing a new topic?
+> 5 Is every major unit of the work defined by either a subhead or clear opening text?
 
 ### 3.1 Paragraphs
 The unit of composition.
