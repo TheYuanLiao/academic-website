@@ -47,9 +47,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Yuan_Liao8
-- icon: publons
+- icon: orcid
   icon_pack: ai
-  link: https://publons.com/researcher/3313762/yuan-liao/
+  link: https://orcid.org/0000-0002-6982-1654
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/yliaothu/
