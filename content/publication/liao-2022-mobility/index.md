@@ -1,5 +1,5 @@
 ---
-title: "Ride-sourcing compared to its public-transit alternative using big trip data"
+title: "A Mobility Model for Synthetic Travel Demand From Sparse Traces"
 authors:
 - admin
 - Kristoffer Ek
