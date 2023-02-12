@@ -20,8 +20,8 @@ publishDate: "2023-02-09T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *Transportation Research Part D': 'Transport and Environment*"
-publication_short: "In *TRD': 'Transport and Environment*"
+publication: "In '*Transportation Research Part D: Transport and Environment*'"
+publication_short: "In '*TRD: Transport and Environment*'"
 
 abstract: "Battery electric vehicles (BEVs) are vital in the sustainable future of transport systems. Increased BEV adoption makes the realistic assessment of charging infrastructure demand critical. The current literature on charging infrastructure often uses outdated charging behavior assumptions such as universal access to home chargers and the "Liquid-fuel" mental model. We simulate charging infrastructure needs using a large-scale agent-based simulation of Sweden with detailed individual characteristics, including dwelling types and activity patterns. The two state-of-art archetypes of charging behaviors, "Plan-ahead" and "Event-triggered", mirror the current infrastructure built-up, suggesting 2.3–4.5 times more public chargers per BEV than the "Liquid-fuel" mental model. We also estimate roughly 30–150 BEVs served by a slow charger may be needed for non-home residential overnight charging."
 
