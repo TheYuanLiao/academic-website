@@ -67,4 +67,14 @@ date_format = "Jan 2006"
   date_start = "2020-11-15"
   date_end = ""
   description = ""
+
+  [[item]]
+    organization = "Coursera"
+    organization_url = "https://www.coursera.org"
+    title = "Advanced Data Science with IBM Specialization"
+    url = "https://www.coursera.org/specializations/advanced-data-science-ibm"
+    certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/2BARNQ6LXPHH"
+    date_start = "2023-04-28"
+    date_end = ""
+    description = ""
 +++
