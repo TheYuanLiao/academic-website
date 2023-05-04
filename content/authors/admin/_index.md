@@ -6,7 +6,7 @@ title: Yuan Liao
 superuser: true
 
 # Role/position
-role: Postdoc in mobility data science
+role: Postdoctoral Research Fellow in Mobility
 
 # Organizations/Affiliations
 organizations:
@@ -80,6 +80,6 @@ user_groups:
 
 I'm a postdoctoral researcher at the Department of Space, Earth and Environment, Chalmers University of Technology, Sweden (2021-). I work at the intersection of data science and mobility. My research vision is the data-driven understanding of human mobility to empower the sustainable transformation of global cities. The vision highlights the use of big and continuous data from newly emerged sources, such as Twitter, mobile phones, and other online platforms. My active research interests include mobility data science, urban big data, GIS, and sustainable transport.
 
-In my master thesis at [Tsinghua University](https://www.tsinghua.edu.cn/en/), China (2013-2016), I studied driver distractions during driving on driving safety and how to detect them in practice by combining gaze data and behavioural data.
+In my master thesis at [Tsinghua University](https://www.tsinghua.edu.cn/en/), China (2013-2016), I studied driver distractions during driving on road safety and how to detect them in practice by combining gaze and behavioural data.
 
-I'm an active learner of data techniques especially data visualisation and spatial analysis.
+I'm an active learner of data techniques especially data visualisation, scalable data science, and spatial analytics.
