@@ -12,7 +12,7 @@ image:
 
 I am excited to share my recent experience presenting at the 9th International Conference on Computational Social Science, where I had the opportunity to connect with a fascinating and rapidly growing community of human mobility and social segregation in urban analytics and computational social science. This study investigates the below two research questions:
 
-- How is experienced nativity segregation different from residential income segregation?
+- How is experienced nativity segregation different from residential nativity segregation?
 - What are the impacts of income level and transport accessibility on experienced nativity segregation by individuals?
 
 Download the slides {{% staticref "uploads/slides_IC2S22023_Yuan Liao.pdf" "newtab" %}}here{{% /staticref %}}.
@@ -20,6 +20,10 @@ Download the slides {{% staticref "uploads/slides_IC2S22023_Yuan Liao.pdf" "newt
 Access the interactive map [here](https://yuanliao.shinyapps.io/InteractiveVisiSegSweden/), where you can play with the census statistics and the results from our study.
 
 {{< figure src="screenshot.jpg" title="Screenshot of the interactive data visualization." >}}
+
+{{% callout warning %}}
+Please note this is an ongoing study. The results may change depending on the evolving research focus and the analysis methods.
+{{% /callout %}}
 
 ## Nativity Segregation in a Polarized World
 
@@ -49,56 +53,30 @@ Attending this conference also opens up exciting avenues for future investigatio
 Understanding urban social resilience through behavioral mobility data. [Keynote](https://www.ic2s2.org/keynotes.html#esteban) by _Esteban Moro_.
 
 #### Using Empirical Mobility/Place Data
-Disaggregating bike-share mobility data to measure urban segregation over time ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper877.pdf))
+Disaggregating bike-share mobility data to measure urban segregation over time ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper877.pdf)). _David Mingfei Liu_
 
-_David Mingfei Liu_
+Mobility Connectedness: Uncovering socioeconomic bias and connectivity in urban mobility ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper700.pdf)). _Damin Lee, Ohhyun Kwon, Inho Hong, Jaehyuk Park, Woo-Sung Jung, Hyejin Youn_
 
-Mobility Connectedness: Uncovering socioeconomic bias and connectivity in urban mobility ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper700.pdf))
+How Can Transport Inequality Contribute to Housing Insecurity? ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper361.pdf)). _Nandini Iyer, Ronaldo Menezes, Hugo Barbosa_
 
-_Damin Lee, Ohhyun Kwon, Inho Hong, Jaehyuk Park, Woo-Sung Jung, Hyejin Youn_
+Mobility and Transit Segregation in Urban Spaces. ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper362.pdf)). _Nandini Iyer, Ronaldo Menezes, Hugo Barbosa_
 
-How Can Transport Inequality Contribute to Housing Insecurity? ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper361.pdf))
+Network analysis reveals fare-free shared bike system improves community integration in Boston ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper135.pdf)). _Nail Furkan Bashan, Qi Wang_
 
-_Nandini Iyer, Ronaldo Menezes, Hugo Barbosa_
+Social-economic segregation dynamics at neighborhoods scale ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper631.pdf)). _Lavinia Rossi Mori, Vittorio Loreto, Riccardo Di Clemente_
 
-Mobility and Transit Segregation in Urban Spaces. ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper362.pdf))
+Amenity complexity and urban locations of socio-economic mixing ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper40.pdf)). _Sandor Juhasz_
 
-_Nandini Iyer, Ronaldo Menezes, Hugo Barbosa_
-
-Network analysis reveals fare-free shared bike system improves community integration in Boston ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper135.pdf))
-
-_Nail Furkan Bashan, Qi Wang_
-
-Social-economic segregation dynamics at neighborhoods scale ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper631.pdf))
-
-_Lavinia Rossi Mori, Vittorio Loreto, Riccardo Di Clemente_
-
-Amenity complexity and urban locations of socio-economic mixing ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper40.pdf))
-
-_Sandor Juhasz_
-
-Idiosyncratic and systematic experienced isolation in urban networks ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper446.pdf))
-
-_Andrew Renninger_
+Idiosyncratic and systematic experienced isolation in urban networks ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper446.pdf)). _Andrew Renninger_
 
 #### Theoretical Models
-A Mobility-constrained Segregation Model ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper385.pdf))
+A Mobility-constrained Segregation Model ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper385.pdf)). _Daniele Gambetta, Luca Pappalardo, Giovanni Mauro_
 
-_Daniele Gambetta, Luca Pappalardo, Giovanni Mauro_
-
-Urban scaling laws arise from within-city inequalities ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper241.pdf))
-
-_Martin Arvidsson, Marc Keuschnigg_
+Urban scaling laws arise from within-city inequalities ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper241.pdf)). _Martin Arvidsson, Marc Keuschnigg_
 
 ### Other Studies Using Big Geolocations on Human mobility
-Understanding the gender gaps in employment and mobility using large-scale behavioral data ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper73.pdf))
+Understanding the gender gaps in employment and mobility using large-scale behavioral data ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper73.pdf)). _Silvia De Sojo Caso, Sune Lehmann, Laura Maria Alessandretti_
 
-_Silvia De Sojo Caso, Sune Lehmann, Laura Maria Alessandretti_
+Uncovering the differences and similarities between physical and virtual mobility ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper456.pdf)). _Surendra Hazarie, Hugo Barbosa, Adam Frank, Ronaldo Menezes, Gourab Ghoshal_
 
-Uncovering the differences and similarities between physical and virtual mobility ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper456.pdf))
-
-_Surendra Hazarie, Hugo Barbosa, Adam Frank, Ronaldo Menezes, Gourab Ghoshal_
-
-Comparing Methodologies for Constructing Epidemic Networks from GPS Mobility Data ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper904.pdf))
-
-_Francisco Barreras, Bethany Hsiao, Duncan J Watts_
+Comparing Methodologies for Constructing Epidemic Networks from GPS Mobility Data ([abstract](https://laura.alessandretti.com/public/pdf_accepted/paper904.pdf)). _Francisco Barreras, Bethany Hsiao, Duncan J Watts_
