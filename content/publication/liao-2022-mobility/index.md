@@ -29,7 +29,7 @@ abstract: "Knowing how much people travel is essential for transport planning. E
 summary: This study presents a model of synthesising individual mobility data from very sparse movement traces.
 
 tags: ["origin-destination estimation", "sparse mobility traces", "social media data", "travel demand", "trip distance distribution"]
-featured: true
+featured: false
 
 links:
 - name: Link

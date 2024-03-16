@@ -31,40 +31,10 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Applied Data Science with Python"
-  url = "https://www.coursera.org/specializations/data-science-python"
-  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/J3H6ZET7CG2X"
-  date_start = "2018-05-24"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
   title = "Geographic Information Systems (GIS) Specialization"
   url = "https://www.coursera.org/specializations/gis"
   certificate_url = "https://www.coursera.org/account/accomplishments/specialization/36CL7KCGXGRB"
   date_start = "2019-07-23"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Modern Big Data Analysis with SQL"
-  url = "https://www.coursera.org/specializations/cloudera-big-data-analysis-sql"
-  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/6SG9BJ373KWY"
-  date_start = "2020-07-07"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Data Science Specialization"
-  url = "https://www.coursera.org/specializations/jhu-data-science"
-  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/M4H4UWYHEC2U"
-  date_start = "2020-11-15"
   date_end = ""
   description = ""
 

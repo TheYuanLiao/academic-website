@@ -26,3 +26,6 @@ This three-year project will be managed and implemented by Dr. Yuan Liao with th
 - Dr. Sonia Yeh, Department of Space, Earth and Environment, Chalmers University of Technology, Sweden
 - Dr. Jorge Gil, Department of Architecture and Civil Engineering, Chalmers University of Technology, Sweden
 - Dr. Laura Alessandretti, Department of Applied Mathematics and Computer Science, Technical University of Denmark, Denmark
+- Dr. Rafael H. M. Pereira, Institute for Applied Economic Research (Ipea) - Brazil, Department of Urban, Regional and Environmental studies and policies (DIRUR), Brazil
+
+We make all studies open-source on our [GitHub page](https://github.com/MobiSegInsights). 
