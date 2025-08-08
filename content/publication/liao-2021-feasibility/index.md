@@ -27,7 +27,7 @@ abstract: "Travel demand estimation, as represented by an origin–destination (
 summary: This study systematically explores the feasibility of using geolocations of Twitter data for travel demand estimation by examining the effects of data sparsity, spatial scale, sampling methods, and sample size.
 
 tags: ["social media data", "travel demand", "origin-destination estimation", "longitudinal data", "lateral data", "gravity model"]
-featured: true
+featured: false
 
 links:
 - name: Link

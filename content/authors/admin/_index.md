@@ -14,12 +14,12 @@ organizations:
   url: "https://www.chalmers.se/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mobility data science, urban big data, GIS, sustainable transport.
+bio: My research interests include mobility data science, urban big data, and sustainable mobility.
 
 interests:
 - Data Science
 - Mobility and Urban Science
-- Geographical Information Systems
+- Sustainable Mobility
 
 education:
   courses:
@@ -61,9 +61,9 @@ social:
   link: https://github.com/TheYuanLiao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: static/files/cv_YuanLiao.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -78,8 +78,6 @@ user_groups:
 - Visitors
 ---
 
-I’m a visiting postdoctoral research fellow at the Department of Applied Mathematics and Computer Science, Technical University of Denmark (2024-). I'm affiliated with Chalmers University of Technology, Sweden (2021-). I work at the intersection of data science and human mobility. My research vision is the data-driven understanding of human mobility to empower the environmentally and socially sustainable transformation of global cities. The vision highlights using big and continuous data from newly emerged sources, such as mobile phones. My research interests include urban mobility, social segregation, and sustainable transport.
-
-In my master thesis at [Tsinghua University](https://www.tsinghua.edu.cn/en/), China (2013-2016), I studied driver distractions during driving on road safety and how to detect them in practice by combining gaze and behavioural data.
+I’m a visiting postdoctoral research fellow at the Department of Applied Mathematics and Computer Science, Technical University of Denmark (2024-), affiliated with Chalmers University of Technology, Sweden (2021-). I work at the intersection of data science and human mobility. My research vision is the data-driven understanding of human mobility to empower the environmentally and socially sustainable transformation of global cities. The vision highlights using big and continuous data from newly emerged sources, such as mobile phones. My research focuses on understanding urban mobility patterns and social inequality through large-scale geolocation data, spatial analytics, and transport modeling.
 
 I'm an active learner of data techniques especially data visualisation, scalable data science, and spatial analytics.
