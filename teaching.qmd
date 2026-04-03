@@ -1,0 +1,71 @@
+---
+title: "Teaching"
+subtitle: "Courses and supervision"
+title-block-banner: false
+---
+
+## Courses
+
+### 2025
+
+**02467 Computational Social Science**<br>
+*Technical University of Denmark, Department of Applied Mathematics and Computer Science*<br>
+Role: Instructor and Course Administrator
+
+**Transportation Engineering and Traffic Analysis**<br>
+*Chalmers University of Technology, Department of Architecture and Civil Engineering*<br>
+Role: Invited Lecturer
+
+**Transport Infrastructure Design and Planning**<br>
+*Chalmers University of Technology, Department of Architecture and Civil Engineering*<br>
+Role: Invited Lecturer
+
+**Summer Institute in Computational Social Science (Digital Trace Data)**<br>
+*Linköping University*<br>
+Role: Invited Lecturer
+
+### 2018–2020
+
+**FFR170: Sustainable Energy Futures**<br>
+*Chalmers University of Technology, Department of Space, Earth and Environment*<br>
+Roles: TA, TA Manager, and Course Administrator
+
+---
+
+## Supervision
+
+I have supervised or co-supervised 7 master's students and 1 PhD student.
+
+### PhD Students
+
+**Çağlar Tozluoğlu** (2022–2024)<br>
+*Agent-based Transport Models as a Tool for Evaluating Mobility*<br>
+Chalmers University of Technology, Department of Space, Earth and Environment<br>
+Role: Co-supervisor (Main supervisor: Frances Sprei)
+
+### Master's Students
+
+**Carl Torbjörnsson** (2024)<br>
+*Evaluating the Impact of the 9-Euro Ticket on Activity Patterns and Social Mixing in Germany*<br>
+Chalmers University of Technology, Department of Computer Science and Engineering<br>
+Role: Supervisor
+
+**Diana Salim, Mattias Rydström** (2023)<br>
+*Simulating Mobility of Large Population Using Mobile Application Data*<br>
+Chalmers University of Technology, Department of Computer Science and Engineering<br>
+Role: Supervisor
+
+**Cong Hao** (2022)<br>
+*Flows Generation for Synthetic Travel Demand*<br>
+Chalmers University of Technology, Department of Space, Earth and Environment<br>
+Role: Supervisor
+
+**Erik Magnusson, Peter Gärdenäs** (2021)<br>
+*Exploring Socioeconomic Factors' Impact on Human Mobility during the COVID-19 Pandemic*<br>
+Chalmers University of Technology, Department of Space, Earth and Environment & Computer Science and Engineering<br>
+Role: Co-supervisor (Main supervisor: Jorge Gil)
+
+**Eric Wennerberg, Kristoffer Ek** (2020)<br>
+*Estimating Travel Demand from Twitter using an Individual Mobility Model*<br>
+Chalmers University of Technology, Department of Space, Earth and Environment & Computer Science and Engineering<br>
+Role: Co-supervisor (Main supervisor: Sonia Yeh)

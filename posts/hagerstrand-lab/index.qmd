@@ -1,0 +1,45 @@
+---
+title: "Joining the Hägerstrand Lab"
+description: "A new chapter at Lund University's computational research space for human geography."
+author: "Yuan Liao"
+date: "2026-04-03"
+categories: [news, computational social science, human geography]
+image: lab.png
+---
+
+I am excited to share that I have joined the Hägerstrand Lab at the Department of Human Geography, Lund University, in collaboration with [SESAC](https://sesac.se/) (Swedish Competence Centre for Satellite-Enabled Social Science Analytics).
+
+## My Role
+
+As a postdoctoral researcher in mobility data science, I study how people move through and experience cities—and what that means for segregation, accessibility, and sustainability. My work combines large-scale geolocation data, spatial analytics, and transport modeling to make urban mobility patterns visible, informing more equitable planning.
+
+At Lund, I'm extending this foundation into GeoAI and economic geography—exploring how machine learning methods like graph neural networks can help us understand the spatial dynamics of labor markets, innovation, and economic activity. This means bridging my expertise in human mobility with new questions about how knowledge flows, career pathways, and regional economies are shaped by spatial structure.
+
+The Hägerstrand Lab, with its interdisciplinary collaborations across human geography, mathematics, and computer science, is an ideal home for this work. I'm looking forward to the encounters ahead.
+
+## About the Lab
+
+Named after the pioneering Swedish geographer Torsten Hägerstrand, the lab is conceived as a shared intellectual and material space where diverse strands of computational inquiry in human geography are brought into meaningful proximity. Located in Room 42 on the 4th floor of the department—affectionately known as "Serenity"—the lab is designed as a space of encounters between ideas, methods, data, and people.
+
+## What We Do
+
+At its core, the lab brings together people with computational competences and shared interests. This central purpose radiates outward into several interconnected activities:
+
+- **Place for Exchange**: A forum for dialogue across methodological and disciplinary boundaries
+- **Knowledge Collection**: Bringing together information, resources, and shared reference materials
+- **Digital & Physical Products**: From code and visualizations to reports and spatial artifacts
+- **HPC Cluster Services**: Access to and support for high-performance computing infrastructure (LUNARC)
+- **Research & Teaching**: Bridging graduate learning and active research practice
+- **Visiting Scholars**: A fixed point for guests and short-term collaborators
+
+## Research Activities
+
+The lab supports a range of computational practices within human geography, including:
+
+- Spatial data analysis & GIS
+- Machine learning & deep learning
+- Register-based microdata research
+- Data visualization & cartography
+- Collaborative code & reproducible research
+- Workshops & method seminars
+

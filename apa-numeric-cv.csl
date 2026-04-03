@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never">
+  <info>
+    <title>APA Numeric CV Style (Reverse Chronological)</title>
+    <id>http://www.zotero.org/styles/apa-numeric-cv</id>
+    <author>
+      <name>Yuan Liao</name>
+    </author>
+    <category citation-format="numeric"/>
+    <summary>APA-like format with numbers, sorted by year (newest first)</summary>
+    <updated>2024-01-01T00:00:00+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</rights>
+  </info>
+  <locale xml:lang="en">
+    <terms>
+      <term name="et-al">et al.</term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <names variable="author">
+      <name and="symbol" delimiter=", " delimiter-precedes-last="always" initialize-with=". " name-as-sort-order="all"/>
+      <label form="short" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="year">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="title">
+    <choose>
+      <if type="article-journal article-magazine article-newspaper" match="any">
+        <text variable="title"/>
+      </if>
+      <else>
+        <text variable="title" font-style="italic"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="container">
+    <choose>
+      <if type="article-journal article-magazine article-newspaper" match="any">
+        <text variable="container-title" font-style="italic"/>
+      </if>
+      <else-if type="chapter paper-conference" match="any">
+        <group delimiter=" ">
+          <text term="in" text-case="capitalize-first"/>
+          <names variable="editor">
+            <name and="symbol" delimiter=", " initialize-with=". "/>
+            <label form="short" prefix=" (" suffix=")"/>
+          </names>
+          <text variable="container-title" font-style="italic"/>
+        </group>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="locators">
+    <choose>
+      <if type="article-journal" match="any">
+        <group delimiter=", ">
+          <group>
+            <text variable="volume" font-style="italic"/>
+            <text variable="issue" prefix="(" suffix=")"/>
+          </group>
+          <text variable="page"/>
+        </group>
+      </if>
+      <else-if type="chapter paper-conference" match="any">
+        <group delimiter=" ">
+          <label variable="page" form="short"/>
+          <text variable="page"/>
+        </group>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="doi-or-url">
+    <choose>
+      <if variable="DOI">
+        <text variable="DOI" prefix="https://doi.org/"/>
+      </if>
+      <else-if variable="URL">
+        <text variable="URL"/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="publisher">
+    <choose>
+      <if type="book chapter paper-conference thesis" match="any">
+        <group delimiter=": ">
+          <text variable="publisher-place"/>
+          <text variable="publisher"/>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter=", " prefix="[" suffix="]">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="1" second-field-align="flush">
+    <sort>
+      <key macro="year" sort="descending"/>
+      <key macro="author"/>
+    </sort>
+    <layout>
+      <text variable="citation-number" prefix="[" suffix="] "/>
+      <group delimiter=". " suffix=".">
+        <group delimiter=" ">
+          <text macro="author"/>
+          <text macro="year" prefix="(" suffix=")"/>
+        </group>
+        <text macro="title"/>
+        <group delimiter=", ">
+          <text macro="container"/>
+          <text macro="locators"/>
+        </group>
+        <text macro="publisher"/>
+      </group>
+      <text macro="doi-or-url" prefix=" "/>
+    </layout>
+  </bibliography>
+</style>

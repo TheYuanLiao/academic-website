@@ -1,0 +1,35 @@
+---
+title: "Collaborators"
+subtitle: "Research collaborators and networks (sorted by last name)"
+page-layout: full
+listing:
+- id: lab-member
+  sort: "lastname asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 4
+  image-height: 200px
+  contents:
+    - /people/*.yml
+
+page-navigation: false
+title-block-banner: false
+toc: false
+
+format:
+  html:
+    link-external-newwindow: true
+---
+
+```{=html}
+<style>
+.quarto-listing-default .listing-image img {
+  object-fit: cover;
+  object-position: top;
+}
+</style>
+```
+
+:::{#lab-member}
+:::

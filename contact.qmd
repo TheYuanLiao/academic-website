@@ -1,0 +1,23 @@
+---
+title: "Contact"
+description-meta: "Contact Yuan Liao"
+title-block-banner: false
+toc: false
+---
+
+## Get in Touch
+
+{{< fa envelope >}} **Email:** [yuan.liao@keg.lu.se](mailto:yuan.liao@chalmers.se)
+
+{{< fa building >}} **Current Position:**
+Postdoctoral Research Fellow<br>
+Department of Human Geography<br>
+Lund University
+
+## Online Profiles
+
+- [{{< ai google-scholar >}} Google Scholar](https://scholar.google.se/citations?user=neS11D4AAAAJ&sortby=pubdate)
+- [{{< ai orcid >}} ORCID](https://orcid.org/0000-0002-6982-1654)
+- [{{< ai researchgate >}} ResearchGate](https://www.researchgate.net/profile/Yuan_Liao8)
+- [{{< fa brands github >}} GitHub](https://github.com/TheYuanLiao)
+- [{{< fa brands linkedin >}} LinkedIn](https://www.linkedin.com/in/yliaothu/)

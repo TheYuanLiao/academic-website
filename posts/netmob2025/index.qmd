@@ -1,0 +1,20 @@
+---
+title: "Best Data Challenge Award from NetMob 2025"
+description: "Attending NetMob 2025 (Paris, France | October 8-10, 2025)."
+author: "Yuan Liao"
+date: "2025-10-15"
+categories: [event, paper, presentation, award, urban science, computational social science]
+image: award.jpg
+---
+
+NetMob 2025 took place in Paris, France, October 8-10, 2025 ([website](https://netmob.org/www25/)). Our team received the Best Data Challenge Award.
+
+![Best Data Challenge Award](award.jpg)
+
+Our work, titled "On the Relationship between Space-Time Accessibility and Leisure Activity Participation," explored how individuals' feasible access to leisure opportunities — shaped by transport systems, time budgets, and spatial inequality — impacts their actual participation in everyday life.
+
+![Presenting our data challenge study](presentation.png)
+
+Big thanks to the NetMob 2025 organizing team and the data providers for the opportunity to work with such rich mobility data.
+
+Check this preprint ([link](https://arxiv.org/abs/2510.10307)).

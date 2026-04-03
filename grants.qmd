@@ -1,0 +1,27 @@
+---
+title: "Grants"
+subtitle: "Funded projects"
+page-layout: full
+listing:
+- id: grants
+  sort: "started desc"
+  type: table
+  fields: [image, title, author, subtitle, description, funding, started, ended]
+  grid-item-align: left
+  grid-columns: 3
+  image-height: 30px
+  field-display-names:
+      title: "Title"
+      author: "Team"
+      subtitle: "Funder"
+      started: "Start"
+      ended: "End"
+      funding: "Funding"
+  contents:
+    - grants.yml
+---
+
+:::{#grants}
+:::
+
+{{< include /files/includes/_socialshare.qmd >}}

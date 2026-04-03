@@ -1,0 +1,76 @@
+---
+title: "Yuan Liao"
+description-meta: "Yuan Liao - Postdoctoral Research Fellow in Mobility and Data Science"
+image: "files/images/avatar.jpg"
+page-navigation: false
+toc: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:yuan.liao@keg.lu.se
+    - icon: github
+      text: GitHub
+      href: https://github.com/TheYuanLiao
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/yliaothu/
+      target: _blank
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.se/citations?user=neS11D4AAAAJ&sortby=pubdate
+      target: _blank
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-6982-1654
+      target: _blank
+    - text: "{{< ai researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Yuan_Liao8
+      target: _blank
+
+listing:
+  - id: recent-posts
+    contents:
+      - posts
+    exclude:
+      title: ""
+    type: grid
+    max-items: 3
+    page-size: 3
+    fields: [image, date, title, subtitle]
+    max-description-length: 75
+    sort:
+      - "date desc"
+      - "title asc"
+---
+
+:::{#hero-heading}
+
+I am a postdoctoral research fellow at the Department of Human Geography, **Lund University**, Sweden. My research sits at the intersection of data science and human mobility, focusing on understanding urban mobility patterns and social inequality using large-scale geolocation data, spatial analytics, and transport modeling. I am particularly interested in leveraging emerging data sources, such as mobile phone data, to support environmentally and socially sustainable urban transformations. 
+
+My recent work on mobility includes a systematic review of empirical evidence on socio-spatial segregation and human mobility, and a study using 320,000 smartphone devices in Sweden to examine how limited mobility affects experienced segregation among foreign-born minorities. My research has been funded by the Swedish Research Council in support of policies promoting diversity and addressing urban inequality (with **Chalmers University of Technology**, Sweden and **Technical University of Denmark**).
+
+## Research Interests
+
+- Data Science
+- Mobility and Urban Science
+- Sustainable Mobility
+
+## Education
+
+- **PhD in Energy and Environment**, Chalmers University of Technology, 2021
+- **MEng in Automotive Engineering**, Tsinghua University, 2016
+- **BSc in Automotive Engineering**, Tsinghua University, 2013
+
+:::
+
+## Recent Posts
+
+:::{#recent-posts}
+:::
+
+<p align="right">[All Posts »](/posts.qmd)</p>

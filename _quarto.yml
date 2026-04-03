@@ -1,0 +1,106 @@
+project:
+  type: website
+  output-dir: _site
+
+# Meta
+description-meta: "Yuan Liao - Postdoctoral Research Fellow in Mobility and Data Science"
+author-meta: "Yuan Liao"
+
+website:
+  title: "Yuan Liao"
+  image: "files/images/avatar.jpg"
+  description: "Postdoctoral Research Fellow in Mobility and Data Science"
+
+  navbar:
+    background: light
+
+    left:
+      - text: About
+        menu:
+          - text: News
+            href: posts.qmd#category=news
+          - text: Events
+            href: posts.qmd#category=event
+          - text: Contact
+            href: contact.qmd
+      - text: Research
+        menu:
+          - text: List of Publications
+            href: publications.qmd
+          - text: Selected Papers
+            href: posts.qmd#category=paper
+          - text: Grants
+            href: grants.qmd
+          - text: Projects
+            href: projects.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Outreach
+        menu:
+          - text: Presentations
+            href: posts.qmd#category=presentation
+          - text: All Posts
+            href: posts.qmd
+      - text: Collaborators
+        href: people.qmd
+
+    right:
+      - text: CV
+        href: files/cv_YuanLiao.pdf
+      - icon: github
+        href: https://github.com/TheYuanLiao
+        target: _blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/yliaothu/
+        target: _blank
+      - icon: rss
+        href: posts.xml
+        target: _blank
+
+  page-navigation: true
+
+  page-footer:
+    left: "[Yuan Liao](https://yuanliao.netlify.app) &copy; <script>document.write(new Date().getFullYear())</script>"
+    center: "Built with [Quarto](https://quarto.org)"
+    right:
+      - icon: github
+        href: https://github.com/TheYuanLiao
+        target: _blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/yliaothu/
+        target: _blank
+
+  search:
+    location: navbar
+    type: textbox
+
+  reader-mode: true
+  draft-mode: unlinked
+  open-graph: true
+  twitter-card: true
+
+  site-url: "https://yuanliao.netlify.app"
+
+  # Google Analytics - tracks visitor statistics
+  # Get your ID from: https://analytics.google.com/
+  google-analytics:
+    tracking-id: "G-Y8SCDSP3QX"
+    anonymize-ip: true
+
+bibliography: references.bib
+csl: apa-numeric-cv.csl
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    footnotes-hover: true
+    code-copy: true
+    code-link: true
+    code-overflow: wrap
+    fig-align: center
+    link-external-icon: false
+    link-external-newwindow: true
+    email-obfuscation: javascript
+    include-in-header: "files/includes/_academic.qmd"

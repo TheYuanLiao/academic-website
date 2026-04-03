@@ -1,0 +1,47 @@
+---
+title: "Publications"
+description-meta: "Publications by Yuan Liao"
+title-block-banner: false
+css: custom.css
+bibliography: references.bib
+csl: apa-numeric-cv.csl
+nocite: |
+  @*
+---
+
+{{< include /files/includes/_academic.qmd >}}
+
+[{{< ai google-scholar >}} Google Scholar](https://scholar.google.se/citations?user=neS11D4AAAAJ) | [{{< ai orcid >}} ORCID](https://orcid.org/0000-0002-6982-1654) | [{{< ai researchgate >}} ResearchGate](https://www.researchgate.net/profile/Yuan_Liao8)
+
+---
+
+## Selected Publications
+
+### 2025
+
+Liao, Y., Torbjörnsson, C., Gil, J., Pereira, R. H. M., Yeh, S., Gohl, N., Schrauth, P., & Alessandretti, L. (2025). Uncovering the social and spatial effects of fare cuts on public transport with mobile geolocation data. *Transportation Research Part A: Policy and Practice*, 200, 104647. <https://doi.org/10.1016/j.tra.2025.104647>
+
+Liao, Y., Gil, J., Yeh, S., Pereira, R. H. M., & Alessandretti, L. (2025). Socio-spatial segregation and human mobility: A review of empirical evidence. *Computers, Environment and Urban Systems*, 117, 102250. <https://doi.org/10.1016/j.compenvurbsys.2025.102250>
+
+Liao, Y., Gil, J., Yeh, S., Pereira, R. H. M., & Alessandretti, L. (2025). The effect of limited mobility on the experienced segregation of foreign-born minorities. *npj Sustainable Mobility and Transport*, 2(1), 29. <https://doi.org/10.1038/s44333-025-00046-4>
+
+### 2023
+
+Liao, Y., Tozluoğlu, Ç., Sprei, F., Yeh, S., & Dhamal, S. (2023). Impacts of charging behavior on BEV charging infrastructure needs and energy use. *Transportation Research Part D: Transport and Environment*, 116, 103645. <https://doi.org/10.1016/j.trd.2023.103645>
+
+### 2021
+
+Liao, Y. (2021). Ride-sourcing compared to its public-transit alternative using big trip data. *Journal of Transport Geography*, 95, 103135. <https://doi.org/10.1016/j.jtrangeo.2021.103135>
+
+### 2020
+
+Liao, Y., Gil, J., Pereira, R. H. M., Yeh, S., & Verendel, V. (2020). Disparities in travel times between car and transit: Spatiotemporal patterns in cities. *Scientific Reports*, 10(1), 4056. <https://doi.org/10.1038/s41598-020-61077-0>
+
+---
+
+## Full Publication List
+
+::: {#refs}
+:::
+
+{{< include /files/includes/_socialshare.qmd >}}
