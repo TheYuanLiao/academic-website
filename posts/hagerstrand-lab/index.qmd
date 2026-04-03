@@ -43,3 +43,4 @@ The lab supports a range of computational practices within human geography, incl
 - Collaborative code & reproducible research
 - Workshops & method seminars
 
+Questions, ideas, or interested in visiting the lab? Get in touch with [Philipp Stark](https://portal.research.lu.se/en/persons/philipp-stark/).
