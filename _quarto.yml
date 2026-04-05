@@ -27,8 +27,6 @@ website:
         menu:
           - text: List of Publications
             href: publications.qmd
-          - text: Selected Papers
-            href: posts.qmd#category=paper
           - text: Grants
             href: grants.qmd
           - text: Projects
