@@ -17,6 +17,9 @@ nocite: |
 
 ## Selected Publications
 
+### 2026
+Liao, Y., Pereira, R. H., Gil, J., Caso, S. D. S., & Alessandretti, L. (2026). Space–time accessibility supports participation in after-work leisure activities. *Journal of Transport Geography*, 136, 104780. <https://doi.org/10.1016/j.jtrangeo.2026.104780>
+
 ### 2025
 
 Liao, Y., Torbjörnsson, C., Gil, J., Pereira, R. H. M., Yeh, S., Gohl, N., Schrauth, P., & Alessandretti, L. (2025). Uncovering the social and spatial effects of fare cuts on public transport with mobile geolocation data. *Transportation Research Part A: Policy and Practice*, 200, 104647. <https://doi.org/10.1016/j.tra.2025.104647>
