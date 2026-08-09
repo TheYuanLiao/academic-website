@@ -32,10 +32,6 @@ Liao, Y., Gil, J., Yeh, S., Pereira, R. H. M., & Alessandretti, L. (2025). The e
 
 Liao, Y., Tozluoğlu, Ç., Sprei, F., Yeh, S., & Dhamal, S. (2023). Impacts of charging behavior on BEV charging infrastructure needs and energy use. *Transportation Research Part D: Transport and Environment*, 116, 103645. <https://doi.org/10.1016/j.trd.2023.103645>
 
-### 2021
-
-Liao, Y. (2021). Ride-sourcing compared to its public-transit alternative using big trip data. *Journal of Transport Geography*, 95, 103135. <https://doi.org/10.1016/j.jtrangeo.2021.103135>
-
 ### 2020
 
 Liao, Y., Gil, J., Pereira, R. H. M., Yeh, S., & Verendel, V. (2020). Disparities in travel times between car and transit: Spatiotemporal patterns in cities. *Scientific Reports*, 10(1), 4056. <https://doi.org/10.1038/s41598-020-61077-0>
